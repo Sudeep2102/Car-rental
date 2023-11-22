@@ -1,6 +1,6 @@
 # Car-rental
-#npm-install
+npm-install
 
-#npm-start-in-frontend
+npm start in frontend
 
-#nodemon-index.js-in-backend
+nodemon index.js in backend
